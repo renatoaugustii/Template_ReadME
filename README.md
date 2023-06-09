@@ -8,11 +8,11 @@ Descrição concisa do projeto.
 <details>
 <summary>Conteudo</summary>
 <ol>
-<li><a href="#Introdução">Introdução</a></li>
-<li><a href="#funcionalidades">Sobre</a></li>
-<li><a href="#Exemplos">Sobre</a></li>
-<li><a href="#Contribuição">Sobre</a></li>
-<li><a href="#licença">Sobre</a></li>
+<li><a href="#Sobre">Sobre</a></li>
+<li><a href="#funcionalidades">Funcionalidades</a></li>
+<li><a href="#Exemplos">Exemplos</a></li>
+<li><a href="#Contribuição">Contribuição</a></li>
+<li><a href="#licença">Licença</a></li>
 </ol>    
 </details>
 
