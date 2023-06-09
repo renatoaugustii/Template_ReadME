@@ -5,13 +5,16 @@
 Descrição concisa do projeto.
 
 ## Menu de Navegação
-
-- [Sobre](#sobre)
-- [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
-- [Exemplos](#exemplos)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+<details>
+<summary>Conteudo</summary>
+<ol>
+<li><a href="#Introdução">Introdução</a></li>
+<li><a href="#funcionalidades">Sobre</a></li>
+<li><a href="#Exemplos">Sobre</a></li>
+<li><a href="#Contribuição">Sobre</a></li>
+<li><a href="#licença">Sobre</a></li>
+</ol>    
+</details>
 
 ## Sobre
 
