@@ -40,29 +40,29 @@ Este é um modelo de arquivo ReadME para seu projeto, explore as diversas possib
 Utilize das diversas funções como por exemplo:
 
 <h1 align="center"> Sou um título </h1>
----
+
 ### Usar Badge
 Use e abuse dos badges disponíveis na documentação: https://shields.io/badges
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
----
+
 ### Listas não ordenadas
 - Exemplo de lista
       - Exemplo de lista
----
+
 ### Usando Task List, marcando tarefas como completas ou não
 - [x] Cadastros contas
 - [ ] Cadastros contas
----
+
 ### Lista Ordenada
 1. Lista Ordenada
 2. Lista Ordenada
----
+
 ### O que a plataforma é capaz de fazer :checkered_flag:
 
 > Status do Projeto: Concluido :heavy_check_mark:
 > Status do Projeto: Em desenvolvimento :warning:
 
----
+
 ### Participante: 
 |name|email|present|receiveCertificate|course|
 | -------- | -------- | -------- |-------- | -------- |
